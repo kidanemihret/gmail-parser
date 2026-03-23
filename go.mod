@@ -1,4 +1,4 @@
-module github.com/assefamaru/gmail-parser
+module github.com/kidanemihret/gmail-parser
 
 go 1.25.5
 
